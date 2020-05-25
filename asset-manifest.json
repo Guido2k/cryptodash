@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/https//guido2k.github.io/cryptodash/static/css/main.1a0c7c8c.chunk.css",
-    "main.js": "/https//guido2k.github.io/cryptodash/static/js/main.ad8a0c7d.chunk.js",
-    "main.js.map": "/https//guido2k.github.io/cryptodash/static/js/main.ad8a0c7d.chunk.js.map",
-    "runtime-main.js": "/https//guido2k.github.io/cryptodash/static/js/runtime-main.72546cca.js",
-    "runtime-main.js.map": "/https//guido2k.github.io/cryptodash/static/js/runtime-main.72546cca.js.map",
-    "static/js/2.9818f247.chunk.js": "/https//guido2k.github.io/cryptodash/static/js/2.9818f247.chunk.js",
-    "static/js/2.9818f247.chunk.js.map": "/https//guido2k.github.io/cryptodash/static/js/2.9818f247.chunk.js.map",
-    "index.html": "/https//guido2k.github.io/cryptodash/index.html",
-    "precache-manifest.28d225026d8e15222491b7481b3a9dbb.js": "/https//guido2k.github.io/cryptodash/precache-manifest.28d225026d8e15222491b7481b3a9dbb.js",
-    "service-worker.js": "/https//guido2k.github.io/cryptodash/service-worker.js",
-    "static/css/main.1a0c7c8c.chunk.css.map": "/https//guido2k.github.io/cryptodash/static/css/main.1a0c7c8c.chunk.css.map",
-    "static/js/2.9818f247.chunk.js.LICENSE.txt": "/https//guido2k.github.io/cryptodash/static/js/2.9818f247.chunk.js.LICENSE.txt"
+    "main.css": "/cryptodash/static/css/main.1a0c7c8c.chunk.css",
+    "main.js": "/cryptodash/static/js/main.f7ea0120.chunk.js",
+    "main.js.map": "/cryptodash/static/js/main.f7ea0120.chunk.js.map",
+    "runtime-main.js": "/cryptodash/static/js/runtime-main.83ad6dfc.js",
+    "runtime-main.js.map": "/cryptodash/static/js/runtime-main.83ad6dfc.js.map",
+    "static/js/2.849d8115.chunk.js": "/cryptodash/static/js/2.849d8115.chunk.js",
+    "static/js/2.849d8115.chunk.js.map": "/cryptodash/static/js/2.849d8115.chunk.js.map",
+    "index.html": "/cryptodash/index.html",
+    "precache-manifest.4efcced13afed74c778cfafd687ec3d3.js": "/cryptodash/precache-manifest.4efcced13afed74c778cfafd687ec3d3.js",
+    "service-worker.js": "/cryptodash/service-worker.js",
+    "static/css/main.1a0c7c8c.chunk.css.map": "/cryptodash/static/css/main.1a0c7c8c.chunk.css.map",
+    "static/js/2.849d8115.chunk.js.LICENSE.txt": "/cryptodash/static/js/2.849d8115.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.72546cca.js",
-    "static/js/2.9818f247.chunk.js",
+    "static/js/runtime-main.83ad6dfc.js",
+    "static/js/2.849d8115.chunk.js",
     "static/css/main.1a0c7c8c.chunk.css",
-    "static/js/main.ad8a0c7d.chunk.js"
+    "static/js/main.f7ea0120.chunk.js"
   ]
 }
