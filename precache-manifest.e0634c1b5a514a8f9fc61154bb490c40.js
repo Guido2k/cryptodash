@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0bdc1d44a6a5ae65f19f1e4fe053c75b",
+    "revision": "aaec5714b1154ba87316d939b3265b81",
     "url": "/cryptodash/index.html"
   },
   {
-    "revision": "9040120a0b7f27bd8b70",
+    "revision": "50e4cc516fcb1a5837fb",
     "url": "/cryptodash/static/css/main.1a0c7c8c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cryptodash/static/js/2.849d8115.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9040120a0b7f27bd8b70",
-    "url": "/cryptodash/static/js/main.b73da98c.chunk.js"
+    "revision": "50e4cc516fcb1a5837fb",
+    "url": "/cryptodash/static/js/main.ba2ec5b7.chunk.js"
   },
   {
     "revision": "a4557b01c8185771facb",
