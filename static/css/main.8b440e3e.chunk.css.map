@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,wBAAyB,CACzB,UAAY,CACZ,iCACF","file":"main.8b440e3e.chunk.css","sourcesContent":["body{\n  background-color: #010e2c;\n  color: white;\n  font-family: 'Do Hyeon', sans-serif;\n}\n\n\n /* @media (max-width: 768px)  {\n  body {\n    height: 100vw;\n    transform: rotate(90deg);\n  }\n} */\n\n\n"]}
