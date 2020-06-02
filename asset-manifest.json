@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cryptodash/static/css/main.8b440e3e.chunk.css",
-    "main.js": "/cryptodash/static/js/main.b37db89c.chunk.js",
-    "main.js.map": "/cryptodash/static/js/main.b37db89c.chunk.js.map",
+    "main.js": "/cryptodash/static/js/main.4e130b58.chunk.js",
+    "main.js.map": "/cryptodash/static/js/main.4e130b58.chunk.js.map",
     "runtime-main.js": "/cryptodash/static/js/runtime-main.83ad6dfc.js",
     "runtime-main.js.map": "/cryptodash/static/js/runtime-main.83ad6dfc.js.map",
     "static/js/2.a1d95d51.chunk.js": "/cryptodash/static/js/2.a1d95d51.chunk.js",
     "static/js/2.a1d95d51.chunk.js.map": "/cryptodash/static/js/2.a1d95d51.chunk.js.map",
     "index.html": "/cryptodash/index.html",
-    "precache-manifest.89deac05301e8f1c0ea78e592e6568c8.js": "/cryptodash/precache-manifest.89deac05301e8f1c0ea78e592e6568c8.js",
+    "precache-manifest.b974b169119a174611d2a3be58b0c17d.js": "/cryptodash/precache-manifest.b974b169119a174611d2a3be58b0c17d.js",
     "service-worker.js": "/cryptodash/service-worker.js",
     "static/css/main.8b440e3e.chunk.css.map": "/cryptodash/static/css/main.8b440e3e.chunk.css.map",
     "static/js/2.a1d95d51.chunk.js.LICENSE.txt": "/cryptodash/static/js/2.a1d95d51.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.83ad6dfc.js",
     "static/js/2.a1d95d51.chunk.js",
     "static/css/main.8b440e3e.chunk.css",
-    "static/js/main.b37db89c.chunk.js"
+    "static/js/main.4e130b58.chunk.js"
   ]
 }
