@@ -4,3 +4,12 @@ body{
   font-family: 'Do Hyeon', sans-serif;
 }
 
+
+ /* @media (max-width: 768px)  {
+  body {
+    height: 100vw;
+    transform: rotate(90deg);
+  }
+} */
+
+
