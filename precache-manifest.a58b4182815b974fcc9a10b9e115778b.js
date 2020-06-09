@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "67c0f2bfed39db64036a9d664582b5d6",
+    "revision": "39141ffc0d76ffdb4d2b25bbdeb4a29f",
     "url": "/cryptodash/index.html"
   },
   {
